@@ -1,0 +1,19 @@
+[package]
+name = "rshacker"
+description = "A funny hacker tool to hack websites (hack.exe)"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/zeriaxdev/rshacker"
+keywords = ["tui", "hacker", "cli"]
+license-file = "LICENSE"
+readme = "README.md"
+
+[dependencies]
+rustyline = "10.0.0"
+whoami = "1.2.1"
+colored = "2.0.0"
+regex = "1.6.0"
+spinach = "2.1.0"
+dns-lookup = "1.0.8"
+indicatif = "0.17.0"
+rand = "0.8.5"
