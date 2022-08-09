@@ -10,6 +10,18 @@ Just run:
 cargo install rshacker
 ```
 
+## Usage
+
+Pass any domain as an argument, for example:
+
+```
+rshacker google.com
+```
+
 ##### A lil' preview (sped up)
 
 ![coolhacker](.github/assets/rshacker.gif)
+
+```
+
+```

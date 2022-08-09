@@ -1,7 +1,7 @@
 [package]
 name = "rshacker"
 description = "A funny hacker tool to hack websites (hack.exe)"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 repository = "https://github.com/zeriaxdev/rshacker"
 keywords = ["tui", "hacker", "cli"]

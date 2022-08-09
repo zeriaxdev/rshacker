@@ -187,7 +187,7 @@ checksum = "a3f87b73ce11b1619a3c6332f45341e0047173771e8b8b73f87bfeefb7b56244"
 
 [[package]]
 name = "rshacker"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "colored",
  "dns-lookup",
