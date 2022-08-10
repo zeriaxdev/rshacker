@@ -21,7 +21,3 @@ rshacker google.com
 ##### A lil' preview (sped up)
 
 ![coolhacker](.github/assets/rshacker.gif)
-
-```
-
-```
